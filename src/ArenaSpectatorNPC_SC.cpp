@@ -21,12 +21,12 @@
 */
 
 #include "AccountMgr.h"
-#include "ArenaSpectator.h"
 #include "ArenaSpectatorNPC.h"
 #include "Chat.h"
 #include "ScriptedGossip.h"
 #include "ScriptMgr.h"
 #include "World.h"
+#include "ArenaSpectator.h"
 
 class ArenaSpectatorNPC_BG : public BGScript
 {

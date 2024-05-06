@@ -24,7 +24,6 @@
 #define _ArenaSpectatorNPC_H_
 
 #include "BattlegroundMgr.h"
-#include "Common.h"
 #include "Player.h"
 
 enum NpcSpectatorActions {

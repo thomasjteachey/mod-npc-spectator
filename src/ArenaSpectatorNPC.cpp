@@ -23,7 +23,6 @@
 #include "ArenaSpectatorNPC.h"
 #include "ArenaTeamMgr.h"
 #include "ScriptedGossip.h"
-#include "ObjectMgr.h"
 
 ArenaSpectatorNPC* ArenaSpectatorNPC::instance()
 {
